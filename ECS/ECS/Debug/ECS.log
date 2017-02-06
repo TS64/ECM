@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\tomas\desktop\year 4 project\ecs\ecs\component.h(25): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\tomas\desktop\year 4 project\ecs\ecs\component.h(29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tomas\desktop\year 4 project\ecs\ecs\entity.h(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomas\desktop\year 4 project\ecs\ecs\system.h(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomas\desktop\year 4 project\ecs\ecs\system.h(54): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomas\desktop\year 4 project\ecs\ecs\system.h(86): warning C4018: '<': signed/unsigned mismatch
+  ECS.vcxproj -> C:\Users\Tomas\Desktop\Year 4 Project\ECS\Debug\ECS.exe
+  ECS.vcxproj -> C:\Users\Tomas\Desktop\Year 4 Project\ECS\Debug\ECS.pdb (Full PDB)
